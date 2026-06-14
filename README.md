@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
 | [0908-smallest-range-i](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0908-smallest-range-i) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0908-smallest-range-i) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
