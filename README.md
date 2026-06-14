@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0283-move-zeroes) |
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -75,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
