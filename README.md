@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0189-rotate-array) |
+| [0908-smallest-range-i](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0908-smallest-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -38,4 +39,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0189-rotate-array) |
+| [0908-smallest-range-i](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0908-smallest-range-i) |
 <!---LeetCode Topics End-->
