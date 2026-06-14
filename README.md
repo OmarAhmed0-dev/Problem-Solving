@@ -21,4 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2938-separate-black-and-white-balls](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/2938-separate-black-and-white-balls) |
+## String
+|  |
+| ------- |
+| [2938-separate-black-and-white-balls](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/2938-separate-black-and-white-balls) |
+## Greedy
+|  |
+| ------- |
+| [2938-separate-black-and-white-balls](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/2938-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
