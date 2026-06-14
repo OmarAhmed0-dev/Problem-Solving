@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
