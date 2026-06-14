@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/1768-merge-strings-alternately) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2938-separate-black-and-white-balls](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/2938-separate-black-and-white-balls) |
 ## String
 |  |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0908-smallest-range-i) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
