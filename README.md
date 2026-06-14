@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0189-rotate-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0189-rotate-array) |
 | [2938-separate-black-and-white-balls](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/2938-separate-black-and-white-balls) |
 ## String
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2938-separate-black-and-white-balls](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/2938-separate-black-and-white-balls) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
