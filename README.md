@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
 | [0908-smallest-range-i](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0908-smallest-range-i) |
 ## Recursion
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/1768-merge-strings-alternately) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
