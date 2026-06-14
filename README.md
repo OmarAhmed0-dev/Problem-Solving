@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0860-lemonade-change](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0908-smallest-range-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
