@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
 | [0908-smallest-range-i](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0908-smallest-range-i) |
 ## Recursion
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0860-lemonade-change](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0896-monotonic-array) |
@@ -55,5 +57,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/OmarAhmed0-dev/Problem-Solving/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
